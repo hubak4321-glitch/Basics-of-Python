@@ -5,7 +5,7 @@
 
 ---
 ### 📂 Repository Overview
-* **Assignments :** Solved assignment and practical problems.
+* **Assignments :** Solved practical problems.
 * **Core Fundamentals :** Variables, logic flow, and data handling.
 * **Objective :** Building a strong programming foundation for future data projects.
 
